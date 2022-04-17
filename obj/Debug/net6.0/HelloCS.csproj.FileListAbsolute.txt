@@ -1,0 +1,15 @@
+/home/blackster/Documents/Programming/C#/HelloCS/bin/Debug/net6.0/HelloCS
+/home/blackster/Documents/Programming/C#/HelloCS/bin/Debug/net6.0/HelloCS.deps.json
+/home/blackster/Documents/Programming/C#/HelloCS/bin/Debug/net6.0/HelloCS.runtimeconfig.json
+/home/blackster/Documents/Programming/C#/HelloCS/bin/Debug/net6.0/HelloCS.dll
+/home/blackster/Documents/Programming/C#/HelloCS/bin/Debug/net6.0/HelloCS.pdb
+/home/blackster/Documents/Programming/C#/HelloCS/obj/Debug/net6.0/HelloCS.csproj.AssemblyReference.cache
+/home/blackster/Documents/Programming/C#/HelloCS/obj/Debug/net6.0/HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+/home/blackster/Documents/Programming/C#/HelloCS/obj/Debug/net6.0/HelloCS.AssemblyInfoInputs.cache
+/home/blackster/Documents/Programming/C#/HelloCS/obj/Debug/net6.0/HelloCS.AssemblyInfo.cs
+/home/blackster/Documents/Programming/C#/HelloCS/obj/Debug/net6.0/HelloCS.csproj.CoreCompileInputs.cache
+/home/blackster/Documents/Programming/C#/HelloCS/obj/Debug/net6.0/HelloCS.dll
+/home/blackster/Documents/Programming/C#/HelloCS/obj/Debug/net6.0/refint/HelloCS.dll
+/home/blackster/Documents/Programming/C#/HelloCS/obj/Debug/net6.0/HelloCS.pdb
+/home/blackster/Documents/Programming/C#/HelloCS/obj/Debug/net6.0/HelloCS.genruntimeconfig.cache
+/home/blackster/Documents/Programming/C#/HelloCS/obj/Debug/net6.0/ref/HelloCS.dll
